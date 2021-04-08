@@ -1,0 +1,1 @@
+function rangeSlider(n){document.getElementById("rangeValue").innerHTML=n;document.getElementById("fillRangeValue").style.width=n+"%"}
